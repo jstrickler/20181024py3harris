@@ -2,7 +2,7 @@
 
 fruits = ['apple', 'cherry', 'orange', 'kiwi', 'banana', 'pear', 'fig']
 name = "Eric Idle"
-knight = 'King','Arthur','Britain'
+knight = 'King', 'Arthur', 'Britain'
 
 print(fruits[3])  # <1>
 print(name[0])    # <2>
